@@ -1,0 +1,35 @@
+.searchstyling button{
+    color: teal;
+    background-color: white;
+    border-color: teal;
+    border-radius: 30%/100%;
+    font-size: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    height: 30px;
+}
+
+
+
+
+
+.styling button{
+    border-radius: 50%;
+    color: white;
+    font-size: 20px;
+    background-color: cyan;
+    border-color: white;
+    height: 30px;
+    width: 30px;
+}
+
+
+
+.blueaccountbutton button{
+    background-color: royalblue;
+    color: white;
+    font-size: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-color: black;
+}

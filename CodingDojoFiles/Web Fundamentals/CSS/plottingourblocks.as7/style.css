@@ -1,0 +1,53 @@
+.background{
+    background-color: darkgray;
+    color: red;
+    width: 1000px;
+    height: 600px;
+    margin: 0px auto;
+    padding-top: 25px;
+}
+
+.top{
+    background-color:green;
+    height: 150px;
+    width: 925px;
+    display:block;
+    border: 1px solid black;
+    margin-left: 25px;
+}
+
+.sidepanel{
+    background-color: blue;
+    height: 300px;
+    width: 175px;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+
+.mainpanel{
+    background-color: red;
+    height: 375px;
+    width: 700px;
+    margin-left: 225px;
+}
+
+.box1,.box2,.box3{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.box1,.box2,.box3{
+    float: left;
+}
+
+.purplebox{
+    background-color: purple;
+    height: 100px;
+    width: 630px;
+    float:inline-start;
+    margin-top: 15px;
+    margin-left: 15px;
+}

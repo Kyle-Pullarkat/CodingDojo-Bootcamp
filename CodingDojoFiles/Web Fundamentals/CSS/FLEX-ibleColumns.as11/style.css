@@ -1,0 +1,33 @@
+.row{
+    display: flex;
+    width: 600px;
+    height: 60px;
+    background-color: white;
+    justify-content: space-evenly;
+
+}
+
+
+.col{
+    background-color: cadetblue;
+    color: white;
+    flex: 1;
+    text-align: center;
+    margin: 10px;
+}
+
+.col-2{
+    background-color: cadetblue;
+    color: white;
+    flex: 2;
+    text-align: center;
+    margin: 10px;
+}
+
+.col-3{
+    background-color: cadetblue;
+    color: white;
+    flex: 3;
+    text-align: center;
+    margin: 10px;
+}

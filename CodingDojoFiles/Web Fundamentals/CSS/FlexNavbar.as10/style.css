@@ -1,0 +1,40 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    width: 750px;
+    height: 50px;
+}
+
+.nav-links{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: end;
+    width: 60%;
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none; /* removed the underline from link */
+    color: white;
+}
+
+
+.nav-title{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20px;
+    color: white;
+    font-family: Roboto;
+    font-size: 30px;
+}
+
+.btn{
+    background-color: darkturquoise;
+    color: white;
+    font-size: 15px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-color: black;
+}

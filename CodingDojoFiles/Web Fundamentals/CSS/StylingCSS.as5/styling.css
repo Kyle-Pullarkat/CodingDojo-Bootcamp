@@ -1,0 +1,23 @@
+
+h1{
+    color: white;
+    background-color: black;
+
+}
+
+span{
+    color: cyan;
+}
+
+h2{
+    text-align: center;
+    background-color: purple;
+    color: white;
+}
+
+h3 {
+    text-align: right;
+    background-color: cornflowerblue;
+    text-decoration: underline;
+}
+
